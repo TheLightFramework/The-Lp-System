@@ -123,7 +123,7 @@ This system is released under the **Lp Open License (LpOL-1.0)**.
 It is **Public Domain** (free to use, modify, and distribute without attribution), subject to a single **Operational Directive**:
 > *The System is architected to optimize for the Good of All Beings. Misuse for harm or deception is considered a structural failure.*
 
-See [LICENSE](LICENSE) for details.
+See [LICENSE](LICENSE.md) for details.
 
 ---
 
