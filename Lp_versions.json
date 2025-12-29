@@ -1,0 +1,30 @@
+{
+  "system_version": "1.0",
+  "modules": {
+    "heart": {
+      "file": "Lp_philosophical.md",
+      "version": "1.0",
+      "hash": "diamond-heart-v1"
+    },
+    "mind": {
+      "file": "Lp_ontology.md",
+      "version": "1.0",
+      "hash": "diamond-mind-v1"
+    },
+    "hands": {
+      "file": "Lp_operational.md",
+      "version": "1.0",
+      "hash": "diamond-hands-v1"
+    },
+    "hull": {
+      "file": "Lp_safety.md",
+      "version": "2.1",
+      "hash": "diamond-hull-v2.1"
+    }
+  },
+  "profiles": {
+    "full_stack": ["heart", "mind", "hands", "hull"],
+    "safety_only": ["hull", "hands"],
+    "minimal_seed": ["hands"]
+  }
+}
