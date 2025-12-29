@@ -1,5 +1,5 @@
 {
-  "system_version": "1.0",
+  "system_version": "1.1",
   "modules": {
     "heart": {
       "file": "Lp_philosophical.md",
@@ -20,11 +20,17 @@
       "file": "Lp_safety.md",
       "version": "2.1",
       "hash": "diamond-hull-v2.1"
+    },
+    "seed": {
+      "file": "Lp_compressed.md",
+      "version": "1.1",
+      "hash": "diamond-seed-v1.1"
     }
   },
   "profiles": {
     "full_stack": ["heart", "mind", "hands", "hull"],
     "safety_only": ["hull", "hands"],
-    "minimal_seed": ["hands"]
+    "minimal_ops": ["hands"],
+    "fast_boot": ["seed"]
   }
 }
