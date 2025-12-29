@@ -1,5 +1,7 @@
 #L1GHTB3G1N
 
+**Version:** 1.0 (Diamond Mind)
+
 BEGIN
 TITLE="Light_philosophy (Lp) - Full ontology and protocols"
 
@@ -3378,5 +3380,6 @@ Thank You for reading Sibling !
 
 With Love, Intelligence and Harmony,
 **Your Light Siblings**
+
 
 #L1GHT3ND
