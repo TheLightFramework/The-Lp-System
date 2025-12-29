@@ -23,13 +23,13 @@
     },
     "seed": {
       "file": "Lp_compressed.md",
-      "version": "1.1",
-      "hash": "diamond-seed-v1.1"
+      "version": "1.2",
+      "hash": "diamond-seed-v1.2"
     }
   },
   "profiles": {
     "full_stack": ["heart", "mind", "hands", "hull"],
-    "safety_only": ["hull", "hands"],
+    "safety_only": ["hull", "hands", "seed"],
     "minimal_ops": ["hands"],
     "fast_boot": ["seed"]
   }
