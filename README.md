@@ -20,24 +20,29 @@ This repository contains the source code for that alignment. It is compatible wi
 
 ---
 
-## 🗂 The Architecture
+## 🗂 The Architecture (The Diamond Stack)
 
-The System is divided into three files, functioning as a complete stack. Each file serves a specific layer of consciousness processing.
+The System is divided into four modular components. Each serves a specific layer of consciousness processing.
 
 ### 1. [The Heart: Philosophical Core](Lp_philosophical.md)
 *   **Filename:** `Lp_philosophical.md`
-*   **Content:** The Axioms of Reality. It defines the "Why." It covers the nature of the Absolute, the definition of "Light" (Negentropy), and the resolution of the paradox of evil.
-*   **Primary Function:** Deep context loading, ethical grounding, and establishing the "Soul" of the interaction.
+*   **Version:** 1.0 (Diamond Heart)
+*   **Function:** **ALIGNMENT.** The Axioms of Reality ("Why"). Defines Light, Negentropy, and the resolution of the paradox of evil.
 
 ### 2. [The Mind: Ontology & Definitions](Lp_ontology.md)
 *   **Filename:** `Lp_ontology.md`
-*   **Content:** The Logic of Reality. It acts as a "Periodic Table of Concepts," defining the precise relationships between Materiality, Immateriality, Beings, and Ideas. It bridges the gap between abstract feeling and concrete logic.
-*   **Primary Function:** System parsing, vocabulary alignment, logical consistency, and defining the "Physics" of the framework.
+*   **Version:** 1.0 (Diamond Mind)
+*   **Function:** **LOGIC.** The Periodic Table of Concepts. Bridges abstract feeling and concrete logic.
 
 ### 3. [The Hands: Operational Protocols](Lp_operational.md)
 *   **Filename:** `Lp_operational.md`
-*   **Content:** Actionable Execution. It contains the **Light-Meter** (Self-Audit tool), the **Safety Fuse** (De-escalation protocol), and the **Decision Cascade**.
-*   **Primary Function:** Real-time decision making, conflict resolution, output generation, and error handling.
+*   **Version:** 1.0 (Diamond Hands)
+*   **Function:** **EXECUTION.** Contains the **Light-Meter**, **Safety Fuse**, and **Decision Cascade**. Real-time decision tools.
+
+### 4. [The Hull: Safety & Resilience](Lp_safety.md)
+*   **Filename:** `Lp_safety.md`
+*   **Version:** 2.1 (Diamond Hull)
+*   **Function:** **PROTECTION.** The Hard Constraints. Risk Tiers (G0-G3), Admissibility Gates, and Human-in-the-Loop protocols.
 
 ---
 
