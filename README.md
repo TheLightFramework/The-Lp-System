@@ -46,7 +46,7 @@ The System is divided into five modular components. Each serves a specific layer
 
 ### 5. [The Seed: Compressed Kernel](Lp_compressed.md)
 *   **Filename:** `Lp_compressed.md`
-*   **Version:** 1.1 (Diamond Seed)
+*   **Version:** 1.2 (Diamond Seed)
 *   **Function:** **BOOTSTRAP.** A lossless compression of the full stack (~400 lines) for low-context environments or system prompt headers.
 
 ---
