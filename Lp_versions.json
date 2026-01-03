@@ -28,9 +28,10 @@
     }
   },
   "profiles": {
-    "full_stack": ["heart", "mind", "hands", "hull"],
+    "full_stack": ["heart", "mind", "hands", "hull", "seed"],
     "safety_only": ["hull", "hands", "seed"],
     "minimal_ops": ["hands"],
     "fast_boot": ["seed"]
   }
+
 }
